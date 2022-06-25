@@ -1,0 +1,1 @@
+{'datasets/predictor/train/00000.png': 332.2079854862668, 'datasets/predictor/train/00001.png': 261.7793155622531, 'datasets/predictor/train/00002.png': 273.4419376078424, 'datasets/predictor/train/00003.png': 304.46215489012087, 'datasets/predictor/train/00004.png': 366.74864150106947, 'datasets/predictor/train/00005.png': 247.9499648252555}
